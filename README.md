@@ -1,4 +1,12 @@
-### Hi there 👋
+### 😄 Welcome to OpenWhitespace !
+OpenWhitespace is a Whitespace interpreter, made in Perl 🌱, and free.
+
+## Let's get started ! ⚡
+Download OpenWhitespace (.ZIP archive) from [here](https://github.com/openwhitespace/openwhitespace/releases/download/1.0.0/openwhitespace.zip). Then 
+extract the archive. After doing all these steps, open CMD or PowerShell at the location of the OpenWhitespace folder, and type:  
+**.\whitespace.exe *-filename.ws***
+You can now run OpenWhitespace 😄!
+💬 If you need help, use GitHub Discussions !
 
 <!--
 **openwhitespace/openwhitespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
