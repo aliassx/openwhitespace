@@ -7,6 +7,7 @@ extract the archive. After doing all these steps, open CMD or PowerShell at the 
 **.\whitespace.exe *-filename.ws***  
 You can now run OpenWhitespace 😄!  
 💬 If you need help, use GitHub Discussions !  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openwhitespace/openwhitespace/HEAD)
 
 <!--
 **openwhitespace/openwhitespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
