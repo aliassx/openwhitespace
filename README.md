@@ -9,6 +9,12 @@ You can now run OpenWhitespace 😄!
 💬 If you need help, use GitHub Discussions !  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openwhitespace/openwhitespace/HEAD)
 
+### 😅 Sorry...
+Lost code.
+
+But you can still download OpenWhitespace from the Releases pages. 
+
+
 <!--
 **openwhitespace/openwhitespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
